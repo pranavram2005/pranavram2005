@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavram2005&label=Profile%20views&color=0e75b6&style=flat" alt="pranavram2005" /> </p>
 
-- 🔭 I’m currently working on [Chennai Sunday Home Page](http://www.chennaisunday.com/chennaisunday/)
+- 🔭 I’m currently working on [Chennai Sunday](http://www.chennaisunday.com/chennaisunday/)
 
 - 🌱 I’m currently learning **Cryptography**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pranavram2005?tab=repositories](https://github.com/pranavram2005?tab=repositories)
 
-- 💬 Ask me about **react, NodeJS and JavaScript**
+- 💬 Ask me about **React, Django and JavaScript**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1GzEMoUYdbt4kcVaguB1sdO4mFJp4XSNs/view?usp=sharing](https://drive.google.com/file/d/1GzEMoUYdbt4kcVaguB1sdO4mFJp4XSNs/view?usp=sharing)
 
