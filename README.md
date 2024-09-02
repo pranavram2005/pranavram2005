@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavram2005&label=Profile%20views&color=0e75b6&style=flat" alt="pranavram2005" /> </p>
 
-- 🔭 I’m currently working on [Chennai Sunday](http://www.chennaisunday.com/chennaisunday/)
+- 🔭 I’m currently working on [Chennai Sunday](http://www.chennaisunday.com)
 
 - 🌱 I’m currently learning **Cryptography**
 
