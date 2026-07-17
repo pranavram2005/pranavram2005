@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pre-final-year **B.Tech (Biotechnology)** student at **IIT Madras**
+- 🎓 Final-year **B.Tech** student at **IIT Madras**
 - 💼 Software engineer with production experience building **real-time, multi-tenant SaaS** end to end
 - ⚡ Hands-on expertise in **agentic coding with Claude Code** — shipping features faster with AI-assisted, agent-driven workflows
 - 🧠 Interested in **AI / LLM agents, Blockchain, and scalable System Design**
@@ -103,12 +103,17 @@ Shipped production features end to end on a multi-tenant CRM:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pranavram2005&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavram2005&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavram2005&theme=tokyonight" alt="profile summary" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavram2005&theme=tokyonight&hide_border=true" alt="streak" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranavram2005&theme=tokyonight" alt="stats" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranavram2005&theme=tokyonight" alt="top languages" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=pranavram2005&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<!-- Note: these cards render only when the README is viewed on github.com. If a card is briefly blank, the free stats server is rate-limited; it recovers on its own. -->
 
 ---
 
