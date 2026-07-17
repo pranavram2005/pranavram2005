@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranav Ram PS</h1>
 
-<h3 align="center">Software Engineer · Student @ IIT Madras · Founder @ ChennaiSunday</h3>
+<h3 align="center">Software Engineer · Student @ IIT Madras</h3>
 
 <p align="center">Building real-time, multi-tenant SaaS with AI, Blockchain &amp; solid System Design</p>
 
