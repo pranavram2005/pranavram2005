@@ -128,9 +128,8 @@ Shipped production features end to end on a multi-tenant CRM:
 
 ## 🤝 Connect With Me
 
-- 🌐 **Website:** [www.chennaisunday.com](https://www.chennaisunday.com)
+- 🌐 **Website:** [Portfolio](https://pranavram2005.github.io/portfolio_final/)
 - 💼 **LinkedIn:** [pranav-ram-40415120b](https://linkedin.com/in/pranav-ram-40415120b)
-- 📺 **YouTube:** [@chennaisunday](https://www.youtube.com/@chennaisunday-pr-ieee-s6u)
 
 ---
 
