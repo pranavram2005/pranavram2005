@@ -7,8 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pranavram2005&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://linkedin.com/in/pranav-ram-40415120b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.chennaisunday.com"><img src="https://img.shields.io/badge/Website-chennaisunday.com-0e75b6?style=flat&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.youtube.com/@chennaisunday-pr-ieee-s6u"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://pranavram2005.github.io/portfolio_final/https://pranavram2005.github.io/portfolio_final/"><img src="https://img.shields.io/badge/Website-chennaisunday.com-0e75b6?style=flat&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://github.com/pranavram2005"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
