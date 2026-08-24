@@ -109,7 +109,7 @@ Shipped production features end to end on a multi-tenant CRM:
   <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranavram2005&theme=tokyonight" alt="top languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pranavram2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=pranavram2005&theme=tokyonight&hide_border=true&utm_source=chatgpt.com" alt="GitHub Streak" />
 </p>
 
 <!-- Note: these cards render only when the README is viewed on github.com. If a card is briefly blank, the free stats server is rate-limited; it recovers on its own. -->
